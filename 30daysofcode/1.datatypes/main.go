@@ -17,6 +17,7 @@ func main() {
 	var i2 uint32
 	var d2 float32
 	var s2 string
+
 	// Scan int and float
 	fmt.Scan(&i2)
 	fmt.Scan(&d2)
