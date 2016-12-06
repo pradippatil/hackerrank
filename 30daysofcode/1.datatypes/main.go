@@ -20,6 +20,8 @@ func main() {
 	// Scan int and float
 	fmt.Scan(&i2)
 	fmt.Scan(&d2)
+
+	//fmt.Scan doesn't work for space separated strings. Use bufio.NewReader
 	s2, _ = scanner.ReadString('\n')
 	fmt.Printf("%d\n%.1f\n%s%s\n", i+i2, d+d2, s, s2)
 
