@@ -6,7 +6,6 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"strings"
 )
 
 func main() {
@@ -15,16 +14,19 @@ func main() {
 	m := make([]int, k)
 	var a []string
 
-	var input string
 	//use bufio
-	scanner := bufio.NewScanner(os.Stdin)
-	for scanner.Scan() {
-		input = scanner.Text()
-		fmt.Println(len(input))
-		fmt.Println(len(a))
-		a = append(a, strings.Split(input, " ")...)
+	r := bufio.NewReader(os.Stdin)
+	input, isPrefix, err := r.ReadLine()
+	fmt.Println("Read", string(input))
+	if isPrefix {
+		fmt.Println("buffer size to small")
 	}
-	os.Exit(3)
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	//fmt.Println(len(a))
+	//a = append(a, strings.Split(input, " ")...)
 
 	//Read array
 	//for i := 0; i < n; i++ {
@@ -38,10 +40,11 @@ func main() {
 	fmt.Println(len(a))
 	fmt.Println("Exiting")
 	os.Exit(1)
+
 	//Rotate array q times
 
 	//for i := 0; i < q; i++ {
-	//a = append(a[n-1:n], a[0:n-1]...)
+	//a = append(a[n-1:], a[0:n-1]...)
 	//}
 
 	//Find given indexes
