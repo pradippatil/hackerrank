@@ -9,7 +9,7 @@ package main
 
 import "fmt"
 
-//gcd returns greatest common divisor for given 2 numbers
+//gcd returns greatest common divisor (GCD) for given 2 numbers
 func gcd(a, b int) int {
 	if b == 0 {
 		return a
@@ -17,6 +17,7 @@ func gcd(a, b int) int {
 	return gcd(b, a%b)
 }
 
+//lcm returns least common multiple (LCM)  for given 2 numbers
 func lcm(a, b int) int {
 	return a / gcd(a, b) * b
 
