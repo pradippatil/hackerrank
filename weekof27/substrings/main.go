@@ -8,7 +8,8 @@ import (
 )
 
 func main() {
-	index := suffixarray.New("banana")
-	fmt.Println(index.Bytes)
-
+	index := suffixarray.New([]byte("banana"))
+	for i, v := range index.Bytes() {
+		fmt.Println(i, &v)
+	}
 }
