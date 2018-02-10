@@ -88,12 +88,19 @@ Solutions are coded using *Python3*, *Go*
 | 27    | [Testing](https://www.hackerrank.com/challenges/30-testing)                                             | 30     | [main.go](30%20Days%20of%20Code/Day%2027%20-%20Testing/main.go)                                |
 
 
+
 # [Python](https://www.hackerrank.com/domains/python)
 
+| Subdomain    | Challenge                                                                                         | Points | Solution                                                                                                                    |
+| :----------: | :-----------------------------------------------------------------------------------------------: | :----: | :-------------------------------------------------------------------------------------------------------------------------: |
+| Introduction | [Hello, World](https://www.hackerrank.com/challenges/py-hello-world/problem)                      | 5      | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Hello%2C%20World/solution.py)       |
+| Introduction | [If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)                               | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/If-Else/solution.py)                |
+| Introduction | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Arithmetic%20Operators/solution.py) |
+| Introduction | [Division](https://www.hackerrank.com/challenges/python-division/problem)                         | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Division/solution.py)               |
+| Introduction | [Loops](https://www.hackerrank.com/challenges/python-loops/problem)                               | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Loops/solution.py)                  |
+| Introduction | [Function](https://www.hackerrank.com/challenges/write-a-function/problem)                        | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Function/solution.py)               |
+| Introduction | [Print Function](https://www.hackerrank.com/challenges/python-print/problem)                      | 20     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Print%20Function/solution.py)       |
 
-| Subdomain    | Challenge                                                                    | Points | Solution                                                                                                              |
-| :----------: | :--------------------------------------------------------------------------: | :----: | :-------------------------------------------------------------------------------------------------------------------: |
-| Introduction | [Hello, World](https://www.hackerrank.com/challenges/py-hello-world/problem) | 5      | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Hello%2C%20World/solution.py) |
 
 
 # Algorithms
