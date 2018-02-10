@@ -7,6 +7,7 @@
 
 - [10 Days of Statistics](#10-days-of-statistics)
 - [30 Days of Code](#30-days-of-code)
+- [Python](#python)
 - [Algorithms](#algorithms)
 - [Cracking the Coding Interview](#cracking-the-coding-interview)
 - [Data Structures](#data-structures)
@@ -18,37 +19,39 @@
 Solutions are coded using *Python3*, *Go*
 
 
+
+
 # 10 Days of Statistics
 
-| Day   | Challenge                                                                                                                  | Points | Solution                                                                                                    |
-| :---: | :------------------------------------------------------------------------------------------------------------------------: | :----: | :---------------------------------------------------------------------------------------------------------: |
-| 0     | [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics)                                       | 30     | [](10%20Days%20of%20Statistics/Day%200%20-%20Mean%2C%20Median%2C%20and%20Mode/)                             |
-| 0     | [Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean)                                                   | 30     | [](10%20Days%20of%20Statistics/Day%200%20-%20Weighted%20Mean/)                                              |
-| 1     | [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles)                                                           | 30     | [](10%20Days%20of%20Statistics/Day%201%20-%20Quartiles/)                                                    |
-| 1     | [Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range)                                       | 30     | [](10%20Days%20of%20Statistics/Day%201%20-%20Interquartile%20Range/)                                        |
-| 1     | [Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation)                                         | 30     | [](10%20Days%20of%20Statistics/Day%201%20-%20Standard%20Deviation/)                                         |
-| 2     | [Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1)                                                       | 10     | [Solution](10%20Days%20of%20Statistics/Day%202%20-%20Basic%20Probability/Solution.txt)                      |
-| 2     | [More Dice](https://www.hackerrank.com/challenges/s10-mcq-2)                                                               | 10     | [Solution](10%20Days%20of%20Statistics/Day%202%20-%20More%20Dice/Solution.txt)                              |
-| 2     | [Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3)                                              | 10     | [Solution](10%20Days%20of%20Statistics/Day%202%20-%20Compound%20Event%20Probability/Solution.txt)           |
-| 3     | [Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4)                                                 | 10     | [Solution](10%20Days%20of%20Statistics/Day%203%20-%20Conditional%20Probability/Solution.txt)                |
-| 3     | [Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5)                                                  | 10     | [Solution](10%20Days%20of%20Statistics/Day%203%20-%20Cards%20of%20the%20Same%20Suit/Solution.txt)           |
-| 3     | [Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6)                                                         | 10     | [Solution](10%20Days%20of%20Statistics/Day%203%20-%20Drawing%20Marbles/Solution.txt)                        |
-| 4     | [Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1)                               | 30     | [](10%20Days%20of%20Statistics/Day%204%20-%20Binomial%20Distribution%20I/)                                  |
-| 4     | [Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2)                              | 30     | [](10%20Days%20of%20Statistics/Day%204%20-%20Binomial%20Distribution%20II/)                                 |
-| 4     | [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1)                             | 30     | [](10%20Days%20of%20Statistics/Day%204%20-%20Geometric%20Distribution%20I/)                                 |
-| 4     | [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2)                            | 30     | [](10%20Days%20of%20Statistics/Day%204%20-%20Geometric%20Distribution%20II/)                                |
-| 5     | [Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1)                                 | 30     | [](10%20Days%20of%20Statistics/Day%205%20-%20Poisson%20Distribution%20I/)                                   |
-| 5     | [Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2)                                | 30     | [](10%20Days%20of%20Statistics/Day%205%20-%20Poisson%20Distribution%20II/)                                  |
-| 5     | [Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1)                                   | 30     | [](10%20Days%20of%20Statistics/Day%205%20-%20Normal%20Distribution%20I/)                                    |
-| 5     | [Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2)                                  | 30     | [](10%20Days%20of%20Statistics/Day%205%20-%20Normal%20Distribution%20II/)                                   |
-| 6     | [The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1)                       | 30     | [](10%20Days%20of%20Statistics/Day%206%20-%20The%20Central%20Limit%20Theorem%20I/)                          |
-| 6     | [The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2)                      | 30     | [](10%20Days%20of%20Statistics/Day%206%20-%20The%20Central%20Limit%20Theorem%20II/)                         |
-| 6     | [The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3)                     | 30     | [](10%20Days%20of%20Statistics/Day%206%20-%20The%20Central%20Limit%20Theorem%20III/)                        |
-| 7     | [Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient)             | 30     | [](10%20Days%20of%20Statistics/Day%207%20-%20Pearson%20Correlation%20Coefficient%20I/)                      |
-| 7     | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient) | 30     | [](10%20Days%20of%20Statistics/Day%207%20-%20Spearman%27s%20Rank%20Correlation%20Coefficient/)              |
-| 8     | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line)                     | 30     | [](10%20Days%20of%20Statistics/Day%208%20-%20Least%20Square%20Regression%20Rate/)                           |
-| 8     | [Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7)                                      | 30     | [Solution](10%20Days%20of%20Statistics/Day%208%20-%20Pearson%20Correlation%20Coefficient%20II/Solution.txt) |
-| 9     | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression)                         | 30     | [](10%20Days%20of%20Statistics/Day%209%20-%20Multiple%20Linear%20Regression/)                               |
+| Day   | Challenge                                                                                                                  | Points | Solution                                                                                       |
+| :---: | :------------------------------------------------------------------------------------------------------------------------: | :----: | :--------------------------------------------------------------------------------------------: |
+| 0     | [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics)                                       | 30     | [](10%20Days%20of%20Statistics/Day%200%20-%20Mean%2C%20Median%2C%20and%20Mode/)                |
+| 0     | [Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean)                                                   | 30     | [](10%20Days%20of%20Statistics/Day%200%20-%20Weighted%20Mean/)                                 |
+| 1     | [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles)                                                           | 30     | [](10%20Days%20of%20Statistics/Day%201%20-%20Quartiles/)                                       |
+| 1     | [Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range)                                       | 30     | [](10%20Days%20of%20Statistics/Day%201%20-%20Interquartile%20Range/)                           |
+| 1     | [Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation)                                         | 30     | [](10%20Days%20of%20Statistics/Day%201%20-%20Standard%20Deviation/)                            |
+| 2     | [Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1)                                                       | 10     | [](10%20Days%20of%20Statistics/Day%202%20-%20Basic%20Probability/)                             |
+| 2     | [More Dice](https://www.hackerrank.com/challenges/s10-mcq-2)                                                               | 10     | [](10%20Days%20of%20Statistics/Day%202%20-%20More%20Dice/)                                     |
+| 2     | [Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3)                                              | 10     | [](10%20Days%20of%20Statistics/Day%202%20-%20Compound%20Event%20Probability/)                  |
+| 3     | [Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4)                                                 | 10     | [](10%20Days%20of%20Statistics/Day%203%20-%20Conditional%20Probability/)                       |
+| 3     | [Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5)                                                  | 10     | [](10%20Days%20of%20Statistics/Day%203%20-%20Cards%20of%20the%20Same%20Suit/)                  |
+| 3     | [Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6)                                                         | 10     | [](10%20Days%20of%20Statistics/Day%203%20-%20Drawing%20Marbles/)                               |
+| 4     | [Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1)                               | 30     | [](10%20Days%20of%20Statistics/Day%204%20-%20Binomial%20Distribution%20I/)                     |
+| 4     | [Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2)                              | 30     | [](10%20Days%20of%20Statistics/Day%204%20-%20Binomial%20Distribution%20II/)                    |
+| 4     | [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1)                             | 30     | [](10%20Days%20of%20Statistics/Day%204%20-%20Geometric%20Distribution%20I/)                    |
+| 4     | [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2)                            | 30     | [](10%20Days%20of%20Statistics/Day%204%20-%20Geometric%20Distribution%20II/)                   |
+| 5     | [Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1)                                 | 30     | [](10%20Days%20of%20Statistics/Day%205%20-%20Poisson%20Distribution%20I/)                      |
+| 5     | [Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2)                                | 30     | [](10%20Days%20of%20Statistics/Day%205%20-%20Poisson%20Distribution%20II/)                     |
+| 5     | [Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1)                                   | 30     | [](10%20Days%20of%20Statistics/Day%205%20-%20Normal%20Distribution%20I/)                       |
+| 5     | [Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2)                                  | 30     | [](10%20Days%20of%20Statistics/Day%205%20-%20Normal%20Distribution%20II/)                      |
+| 6     | [The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1)                       | 30     | [](10%20Days%20of%20Statistics/Day%206%20-%20The%20Central%20Limit%20Theorem%20I/)             |
+| 6     | [The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2)                      | 30     | [](10%20Days%20of%20Statistics/Day%206%20-%20The%20Central%20Limit%20Theorem%20II/)            |
+| 6     | [The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3)                     | 30     | [](10%20Days%20of%20Statistics/Day%206%20-%20The%20Central%20Limit%20Theorem%20III/)           |
+| 7     | [Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient)             | 30     | [](10%20Days%20of%20Statistics/Day%207%20-%20Pearson%20Correlation%20Coefficient%20I/)         |
+| 7     | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient) | 30     | [](10%20Days%20of%20Statistics/Day%207%20-%20Spearman%27s%20Rank%20Correlation%20Coefficient/) |
+| 8     | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line)                     | 30     | [](10%20Days%20of%20Statistics/Day%208%20-%20Least%20Square%20Regression%20Rate/)              |
+| 8     | [Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7)                                      | 30     | [](10%20Days%20of%20Statistics/Day%208%20-%20Pearson%20Correlation%20Coefficient%20II/)        |
+| 9     | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression)                         | 30     | [](10%20Days%20of%20Statistics/Day%209%20-%20Multiple%20Linear%20Regression/)                  |
 
 
 # [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
@@ -83,6 +86,9 @@ Solutions are coded using *Python3*, *Go*
 | 25    | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)     | 30     | [main.go](30%20Days%20of%20Code/Day%2025%20-%20Running%20Time%20and%20Complexity/main.go)      |
 | 26    | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)                                   | 30     | [main.go](30%20Days%20of%20Code/Day%2026%20-%20Nested%20Logic/main.go)                         |
 | 27    | [Testing](https://www.hackerrank.com/challenges/30-testing)                                             | 30     | [main.go](30%20Days%20of%20Code/Day%2027%20-%20Testing/main.go)                                |
+
+
+# [Python](https://www.hackerrank.com/challenges/py-hello-world/)
 
 
 # Algorithms
@@ -199,9 +205,9 @@ Solutions are coded using *Python3*, *Go*
 | Tries           | [Contacts](https://www.hackerrank.com/challenges/contacts)                                                                                             | 40     | [](Data%20Structures/Trie/Contacts/)                                                                            |
 | Queues          | [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks)                                                                 | 30     | [](Data%20Structures/Queues/Queue%20using%20Two%20Stacks/)                                                      |
 | Heaps           | [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median)                                                               | 50     | [](Data%20Structures/Heaps/Find%20the%20Running%20Median/)                                                      |
-| Multiple Choice | [Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees)                                                              | 5      | [Solution](Data%20Structures/Multiple%20Choice/Data%20Structures%20MCQ%201/Solution.txt)                        |
-| Multiple Choice | [Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures)                                                    | 5      | [Solution](Data%20Structures/Multiple%20Choice/Data%20Structures%20MCQ%202/Solution.txt)                        |
-| Multiple Choice | [Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1)                                                  | 5      | [Solution](Data%20Structures/Multiple%20Choice/Data%20Structures%20MCQ%203/Solution.txt)                        |
+| Multiple Choice | [Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees)                                                              | 5      | [](Data%20Structures/Multiple%20Choice/Data%20Structures%20MCQ%201/)                                            |
+| Multiple Choice | [Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures)                                                    | 5      | [](Data%20Structures/Multiple%20Choice/Data%20Structures%20MCQ%202/)                                            |
+| Multiple Choice | [Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1)                                                  | 5      | [](Data%20Structures/Multiple%20Choice/Data%20Structures%20MCQ%203/)                                            |
 
 
 # General Programming
@@ -350,7 +356,7 @@ Solutions are coded using *Python3*, *Go*
 
 | Subdomain    | Challenge                                                                                                                    | Points | Solution                                                                                   |
 | :----------: | :--------------------------------------------------------------------------------------------------------------------------: | :----: | :----------------------------------------------------------------------------------------: |
-| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)                               | 10     | [MySQL Solution](SQL/Basic%20Select/Revising%20the%20Select%20Query%20I.sql)               |
+| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)                               | 10     | [](SQL/Basic%20Select/Revising%20the%20Select%20Query%20I.sql)                             |
 | Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)                            | 10     | [MySQL Solution](SQL/Basic%20Select/Revising%20the%20Select%20Query%20II.sql)              |
 | Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                                           | 10     | [MySQL Solution](SQL/Basic%20Select/Select%20All.sql)                                      |
 | Basic Select | [Select By ID](https://www.hackerrank.com/challenges/select-by-id)                                                           | 10     | [MySQL Solution](SQL/Basic%20Select/Select%20By%20ID.sql)                                  |
