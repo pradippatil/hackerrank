@@ -88,7 +88,12 @@ Solutions are coded using *Python3*, *Go*
 | 27    | [Testing](https://www.hackerrank.com/challenges/30-testing)                                             | 30     | [main.go](30%20Days%20of%20Code/Day%2027%20-%20Testing/main.go)                                |
 
 
-# [Python](https://www.hackerrank.com/challenges/py-hello-world/)
+# [Python](https://www.hackerrank.com/domains/python)
+
+
+| Subdomain    | Challenge                                                                    | Points | Solution                                           |
+| :----------: | :--------------------------------------------------------------------------: | :----: | :------------------------------------------------: |
+| Introduction | [Hello, World](https://www.hackerrank.com/challenges/py-hello-world/problem) | 5      | [solution.py](Python/Hello%2C%20World/solution.py) |
 
 
 # Algorithms
