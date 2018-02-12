@@ -11,3 +11,5 @@
 | Introduction     | [Print Function](https://www.hackerrank.com/challenges/python-print/problem)                      | 20     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Print%20Function/solution.py)       |
 |                  |                                                                                                   |        |                                                                                                                             |
 | Basic Data Types | [Lists](https://www.hackerrank.com/challenges/python-lists/problem)                               | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Lists/solution.py)          |
+| Basic Data Types | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)                             | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Tuples/solution.py)         |
+
