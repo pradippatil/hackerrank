@@ -101,6 +101,12 @@ Solutions are coded using *Python3*, *Go*
 | Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Runner-Up/solution.py)             |
 | Basic Data Types | [Nested Loops](https://www.hackerrank.com/challenges/nested-list/problem)                                       | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Nested%20Loops/solution.py)        |
 | Basic Data Types | [Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)                              | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Percentage/solution.py)            |
+|                  |                                                                                                                 |        |                                                                                                                                    |
+| Strings          | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)                                            | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Strings/sWAP%20cASE/solution.py)                        |
+| Strings          | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)             | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Strings/String%20Split%20and%20Join/solution.py)        |
+| Strings          | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)                              | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Strings/Name/solution.py)                               |
+| Strings          | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)                                     | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Strings/Mutations/solution.py)                          |
+
 
 # Algorithms
 
