@@ -18,9 +18,6 @@
 
 Solutions are coded using *Python3*, *Go*
 
-
-
-
 # 10 Days of Statistics
 
 | Day   | Challenge                                                                                                                  | Points | Solution                                                                                       |
@@ -52,7 +49,6 @@ Solutions are coded using *Python3*, *Go*
 | 8     | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line)                     | 30     | [](10%20Days%20of%20Statistics/Day%208%20-%20Least%20Square%20Regression%20Rate/)              |
 | 8     | [Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7)                                      | 30     | [](10%20Days%20of%20Statistics/Day%208%20-%20Pearson%20Correlation%20Coefficient%20II/)        |
 | 9     | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression)                         | 30     | [](10%20Days%20of%20Statistics/Day%209%20-%20Multiple%20Linear%20Regression/)                  |
-
 
 # [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
@@ -87,21 +83,24 @@ Solutions are coded using *Python3*, *Go*
 | 26    | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)                                   | 30     | [main.go](30%20Days%20of%20Code/Day%2026%20-%20Nested%20Logic/main.go)                         |
 | 27    | [Testing](https://www.hackerrank.com/challenges/30-testing)                                             | 30     | [main.go](30%20Days%20of%20Code/Day%2027%20-%20Testing/main.go)                                |
 
-
-
 # [Python](https://www.hackerrank.com/domains/python)
 
-| Subdomain    | Challenge                                                                                         | Points | Solution                                                                                                                    |
-| :----------: | :-----------------------------------------------------------------------------------------------: | :----: | :-------------------------------------------------------------------------------------------------------------------------: |
-| Introduction | [Hello, World](https://www.hackerrank.com/challenges/py-hello-world/problem)                      | 5      | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Hello%2C%20World/solution.py)       |
-| Introduction | [If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)                               | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/If-Else/solution.py)                |
-| Introduction | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Arithmetic%20Operators/solution.py) |
-| Introduction | [Division](https://www.hackerrank.com/challenges/python-division/problem)                         | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Division/solution.py)               |
-| Introduction | [Loops](https://www.hackerrank.com/challenges/python-loops/problem)                               | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Loops/solution.py)                  |
-| Introduction | [Function](https://www.hackerrank.com/challenges/write-a-function/problem)                        | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Function/solution.py)               |
-| Introduction | [Print Function](https://www.hackerrank.com/challenges/python-print/problem)                      | 20     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Print%20Function/solution.py)       |
-
-
+| Subdomain        | Challenge                                                                                                       | Points | Solution                                                                                                                           |
+| :--------------: | :-------------------------------------------------------------------------------------------------------------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------: |
+| Introduction     | [Hello, World](https://www.hackerrank.com/challenges/py-hello-world/problem)                                    | 5      | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Hello%2C%20World/solution.py)              |
+| Introduction     | [If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)                                             | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/If-Else/solution.py)                       |
+| Introduction     | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)               | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Arithmetic%20Operators/solution.py)        |
+| Introduction     | [Division](https://www.hackerrank.com/challenges/python-division/problem)                                       | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Division/solution.py)                      |
+| Introduction     | [Loops](https://www.hackerrank.com/challenges/python-loops/problem)                                             | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Loops/solution.py)                         |
+| Introduction     | [Function](https://www.hackerrank.com/challenges/write-a-function/problem)                                      | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Function/solution.py)                      |
+| Introduction     | [Print Function](https://www.hackerrank.com/challenges/python-print/problem)                                    | 20     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Introduction/Print%20Function/solution.py)              |
+|                  |                                                                                                                 |        |                                                                                                                                    |
+| Basic Data Types | [Lists](https://www.hackerrank.com/challenges/python-lists/problem)                                             | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Lists/solution.py)                 |
+| Basic Data Types | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)                                           | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Tuples/solution.py)                |
+| Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)                        | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/List%20Comprehensions/solution.py) |
+| Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Runner-Up/solution.py)             |
+| Basic Data Types | [Nested Loops](https://www.hackerrank.com/challenges/nested-list/problem)                                       | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Nested%20Loops/solution.py)        |
+| Basic Data Types | [Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)                              | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Percentage/solution.py)            |
 
 # Algorithms
 
@@ -362,7 +361,6 @@ Solutions are coded using *Python3*, *Go*
 | Advanced                    | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)                                 | 30     | [](Java/Advanced/Java%20Lambda%20Expressions/)                                               |
 | Advanced                    | [Java MD5](https://www.hackerrank.com/challenges/java-md5)                                                               | 30     | [](Java/Advanced/Java%20MD5/)                                                                |
 | Advanced                    | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256)                                                            | 30     | [](Java/Advanced/Java%20SHA-256/)                                                            |
-
 
 # SQL
 

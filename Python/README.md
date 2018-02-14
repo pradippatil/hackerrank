@@ -15,4 +15,5 @@
 | Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)                        | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/List%20Comprehensions/solution.py) |
 | Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Runner-Up/solution.py)             |
 | Basic Data Types | [Nested Loops](https://www.hackerrank.com/challenges/nested-list/problem)                                       | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Nested%20Loops/solution.py)        |
+| Basic Data Types | [Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)                              | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Basic%20Data%20Types/Percentage/solution.py)            |
 
