@@ -124,7 +124,8 @@ Solutions are coded using *Python3*, *Go*
 | Sets | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)                                     | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Sets/Set.symmetric_difference/solution.py)                          |
 | Sets | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)                                     | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Sets/Set%20Mutations/solution.py)                          |
 | Sets | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)                                     | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Sets/Captains%20Room/solution.py)                          |
-
+| Sets | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)                                     | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Sets/Check%20Subset/solution.py)                          |
+| Sets | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)                                     | 10     | [solution.py](https://github.com/pradippatil/hackerrank/blob/master/Python/Sets/Check%20Strict%20Superset/solution.py)                          |
 
 # Algorithms
 
